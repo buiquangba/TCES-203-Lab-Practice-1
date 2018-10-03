@@ -24,3 +24,4 @@ void getInput(float *first, float *second) {
     printf("Enter the second number ");
     scanf("%f", second);
 }
+/* Travis wuz here */
